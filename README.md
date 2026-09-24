@@ -76,11 +76,6 @@ O desenvolvimento envolve diferentes etapas, incluindo planejamento, criação d
 
 `Laravel` `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Git` `Figma`
 
-<br>
-
-<a href="https://github.com/Luci-jjo#tcc--sistema-para-buffet-infantil">
-  <img src="https://img.shields.io/badge/Ver_projeto-4DA3FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </td>
 </tr>
