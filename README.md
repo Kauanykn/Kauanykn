@@ -83,7 +83,7 @@ O desenvolvimento envolve diferentes etapas, incluindo planejamento, criação d
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
@@ -103,26 +103,6 @@ O desenvolvimento envolve diferentes etapas, incluindo planejamento, criação d
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kauanykn&bg_color=0D1117&color=FFFFFF&line=4DA3FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kauanykn&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -130,7 +110,6 @@ O desenvolvimento envolve diferentes etapas, incluindo planejamento, criação d
 <img src="https://raw.githubusercontent.com/Kauanykn/Kauanykn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
-
 ---
 
 ## 🌐 Vamos nos conectar?
